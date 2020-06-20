@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Have no information about me
 
 ### More Information
 
@@ -12,4 +12,4 @@ Some information about you!
 
 ### Contact me
 
-744659068@qq.com
+保密
